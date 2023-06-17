@@ -21,10 +21,11 @@ function Appp() {
         
       <> 
       <div className='he'  >
+        <div></div>
       
         <img className='heee' src={lovv} alt=''/>
         <img className='qq'  src={lov} alt=''/>
-        <div className='hee' >
+        <div className='hee' >cd secondtext
 
             <h3>Our Pricing</h3>
 
