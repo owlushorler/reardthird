@@ -1,0 +1,134 @@
+.he{
+background-color: rgb(236, 236, 238);
+position: relative;
+width: 1000px;
+height: 640px;
+
+}
+
+.heee{
+    height: 200px;
+    margin-bottom: -140px;
+}
+.qq{
+    height: 500px;
+    margin-left: 480px;
+}
+
+.hee{
+    position: absolute;
+    top: 10px;
+    left: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.kop{   
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
+.lov{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+}
+.lpp{
+    background-color:  white;
+    width: 280px;
+    height: 360px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-radius: 5px;
+
+}
+
+.lp{
+    
+    text-align: center;
+    width: 250px;
+    
+}
+.btnn{
+   background-color: white; 
+   color: rgb(108, 108, 194);
+   border-width: 1px;
+   border-color:  rgb(108, 108, 194);
+   border-style: solid;
+   border-radius: 3px;
+   padding-left: 90px;
+   padding-right: 90px;
+   font-size: 10px;
+   padding-top:5px;
+   padding-bottom:5px;
+   margin-top: 15px;
+   border-radius: 4px;
+}
+
+.lppp{
+    background-color: rgb(125, 125, 202);
+    color: white;
+    border-radius: 10px;
+    width: 280px;
+    height: 390px;
+    margin-top: -15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+.btn{
+    background-color:  rgb(125, 125, 202); 
+    color: white;
+    border-width: 1px;
+    border-color:  white;
+    border-style: solid;
+    border-radius: 3px;
+    padding-left: 90px;
+    padding-right: 90px;
+    font-size: 10px;
+    padding-top:5px;
+    padding-bottom:5px;
+    margin-top: 15px;
+    border-radius: 4px;
+ }
+
+
+ .btn:hover{
+    cursor: pointer;
+    background-color: white; 
+    color: rgb(108, 108, 194);
+    border-width: 1px;
+    border-color:  rgb(108, 108, 194);
+    border-style: solid;
+    border-radius: 3px;
+    padding-left: 90px;
+    padding-right: 90px;
+    font-size: 10px;
+    padding-top:5px;
+    padding-bottom:5px;
+    margin-top: 15px;
+    border-radius: 4px;
+
+ }
+
+ .btnn:hover{
+    cursor: pointer;
+    background-color:  rgb(125, 125, 202); 
+    color: white;
+    border-width: 1px;
+    border-color:  white;
+    border-style: solid;
+    border-radius: 3px;
+    padding-left: 90px;
+    padding-right: 90px;
+    font-size: 10px;
+    padding-top:5px;
+    padding-bottom:5px;
+    margin-top: 15px;
+    border-radius: 4px;
+ }
